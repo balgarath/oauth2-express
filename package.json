@@ -1,9 +1,9 @@
-{ "name" :       "oauth2"
+{ "name" :       "oauth2-express"
 , "description": "Node.js Oauth2 Server Library"
 , "version":     "0.1.0"
-, "homepage":    "http://leap.com/"
+, "homepage":    "https://github.com/balgarath/oauth2-express/"
 , "contributers":[
-    "Ralph Edge <ralph@lifekraze.com>"
+    "Ralph Edge <rledge21@gmail.com>"
   ]
 , "main": "index"
 , "dependencies":
