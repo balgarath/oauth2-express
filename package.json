@@ -1,0 +1,19 @@
+{ "name" :       "oauth2"
+, "description": "Node.js Oauth2 Server Library"
+, "version":     "0.1.0"
+, "homepage":    "http://leap.com/"
+, "contributers":[
+    "Ralph Edge <ralph@lifekraze.com>"
+  ]
+, "main": "index"
+, "dependencies":
+  { 
+    "connect": "1.7.x"  
+  }
+, "devDependencies":
+  { "request":    ">= 1.9.5 < 2.0.0"
+  , "vows":       "*"
+  , "dox":        ">= 0.1.1 < 0.5.0"
+  }
+, "engines":        { "node": ">=0.4.2" }
+}
