@@ -2,7 +2,7 @@
 , "description": "Node.js Oauth2 Server Library"
 , "version":     "0.1.0"
 , "homepage":    "https://github.com/balgarath/oauth2-express/"
-, "contributers":[
+, "contributors":[
     "Ralph Edge <rledge21@gmail.com>"
   ]
 , "main": "index"
